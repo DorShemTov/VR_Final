@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    int speed;
-    int hp;
-    int rocks;
+    [SerializeField] int speed;
+    [SerializeField] int hp;
+    [SerializeField] int rocks;
 
     public void AddRockAmount(int amount)
     {
         rocks += amount;
-        Debug.Log("added" + amount +" now i have "+ rocks);
+        Debug.Log("added" + amount + " now i have " + rocks);
     }
 
-    public void AddSpeed(int amount)
+    public void AddSpeed(int amount) //todo, make this work
     {
         //todo
         //figure out if reducing or adding waight gain speed
@@ -27,4 +27,18 @@ public class GameManager : MonoBehaviour
         Debug.Log("added" + amount + " now i have " + hp);
 
     }
+
+    public void TakeDamage(int amount)
+    {
+        hp -= amount;
+    }
+
+    private void Update()
+    {
+        if (hp<= 0)
+        {
+            //print("dead");
+        }
+    }
+    
 }

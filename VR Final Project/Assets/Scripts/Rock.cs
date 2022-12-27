@@ -4,24 +4,21 @@ using UnityEngine;
 
 public class Rock : MonoBehaviour
 {
-    bool collided;
+    public bool collided;
     float timer = 0;
-    private void OnCollisionEnter(Collision collision)
-    {
-        collided = true;
-    }
+   
 
     private void Update()
     {
-       /* if (collided)
+        if (collided)
         {
             timer += Time.deltaTime;
         }
 
-        if (timer > 20)
+        if (timer > 3)
         {
             gameObject.SetActive(false);
-        }*/
+        }
 
     }
 }

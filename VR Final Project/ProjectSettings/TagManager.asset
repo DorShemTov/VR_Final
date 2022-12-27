@@ -6,6 +6,8 @@ TagManager:
   tags:
   - hand
   - Rock
+  - Zombie
+  - GameManager
   layers:
   - Default
   - TransparentFX
