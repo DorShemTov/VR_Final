@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -119,10 +119,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 53
+  controlID: 130
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 103
+  controlID: 58
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 104
+  controlID: 59
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -274,8 +274,8 @@ MonoBehaviour:
     y: 0
     width: 490
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -408,7 +408,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1147, y: 525}
+  m_TargetSize: {x: 933, y: 525}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -423,8 +423,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -573.5
-    m_HBaseRangeMax: 573.5
+    m_HBaseRangeMin: -466.5
+    m_HBaseRangeMax: 466.5
     m_VBaseRangeMin: -262.5
     m_VBaseRangeMax: 262.5
     m_HAllowExceedBaseRangeMin: 1
@@ -494,9 +494,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 00ecffff
-      m_LastClickedID: -5120
-      m_ExpandedIDs: 48ecffffaceefffffcefffff52f1ffffacf2ffff
+      m_SelectedIDs: 72590000
+      m_LastClickedID: 0
+      m_ExpandedIDs: ea66ffff906cffff9e6cffffac6cffffb26cffffca87ffff1c88ffff3c89ffff988bffff8a91ffff9091ffff3292ffff3892ffff5892ffff86b9ffff6afbffffea4d0000f24d0000f64d00001a4e00000c5c0000145c0000785d0000945d0000ec5d0000f45d0000f85d00001e5e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -512,7 +512,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 10}
+        m_ClientGUIView: {fileID: 8}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -556,9 +556,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.7570844, y: 6.794306, z: -2.8103476}
+    m_Target: {x: -0.5244279, y: 1.442364, z: -3.8381495}
     speed: 2
-    m_Value: {x: -2.7570844, y: 6.794306, z: -2.8103476}
+    m_Value: {x: -0.5244279, y: 1.442364, z: -3.8381495}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -605,13 +605,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.51960516, y: -0.34467635, z: 0.24135953, w: -0.7439196}
+    m_Target: {x: -0.04025736, y: 0.95954245, z: -0.22337894, w: -0.16821627}
     speed: 2
-    m_Value: {x: -0.51836914, y: -0.34495857, z: 0.24078622, w: -0.744526}
+    m_Value: {x: -0.04024655, y: 0.9592848, z: -0.22331896, w: -0.16817111}
   m_Size:
-    m_Target: 1.1785411
+    m_Target: 0.5618727
     speed: 2
-    m_Value: 1.1277905
+    m_Value: 0.5618727
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -699,23 +699,23 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Metarials
+    - Assets/Samples/XR Interaction Toolkit/2.2.0/XR Device Simulator
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Metarials
+  - Assets/Samples/XR Interaction Toolkit/2.2.0/XR Device Simulator
   m_LastFoldersGridSize: 64
   m_LastProjectPath: C:\Users\dorsh\OneDrive\Desktop\degree\VR-AR\VR_Final\VR Final
     Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a530000
-    m_LastClickedID: 21290
-    m_ExpandedIDs: 00000000fa520000fc520000fe5200000053000000ca9a3b
+    scrollPos: {x: 0, y: 273}
+    m_SelectedIDs: ec590000
+    m_LastClickedID: 23020
+    m_ExpandedIDs: 00000000ae440000b0440000b2440000bc440000c4440000d044000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -743,7 +743,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fa520000fc520000fe52000000530000
+    m_ExpandedIDs: 00000000ae440000b0440000b2440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -771,7 +771,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300009a4300000000000064480000
+    m_ExpandedInstanceIDs: c62300009a4300000000000064480000d0590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -787,7 +787,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 9}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -798,7 +798,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 1
-  m_DirectoriesAreaWidth: 150
+  m_DirectoriesAreaWidth: 279
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52

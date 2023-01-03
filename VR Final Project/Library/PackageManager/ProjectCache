@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638047187182312867
+      ticks: 638083518694474973
     m_Hash: 2583473011
   m_LockFileStatus:
     m_FilePath: C:/Users/dorsh/OneDrive/Desktop/degree/VR-AR/VR_Final/VR Final Project/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638047187182362734
+      ticks: 638083518694519968
     m_Hash: 3938248922
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3530,8 +3530,10 @@ m_PackageAssets:
         - 2.0.0-pre.5
         - 2.0.0-pre.6
         - 2.0.0
+        - 2.0.1
         - 2.1.0-pre.1
         - 2.1.0
+        - 2.1.1
         - 2.2.0-pre.1
         - 2.2.0-pre.2
         compatible:
@@ -3539,8 +3541,10 @@ m_PackageAssets:
         - 2.0.0-pre.5
         - 2.0.0-pre.6
         - 2.0.0
+        - 2.0.1
         - 2.1.0-pre.1
         - 2.1.0
+        - 2.1.1
         - 2.2.0-pre.1
         - 2.2.0-pre.2
         verified: 
